@@ -6,6 +6,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/klakshya007/dsa-vault-v2/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 |  |
 | ------- |
 | [0136-single-number](https://github.com/klakshya007/dsa-vault-v2/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
