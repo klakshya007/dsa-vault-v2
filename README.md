@@ -26,6 +26,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/klakshya007/dsa-vault-v2/tree/main/0258-add-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/klakshya007/dsa-vault-v2/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/klakshya007/dsa-vault-v2/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
