@@ -8,6 +8,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | ------- | ------- |
 | [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/klakshya007/dsa-vault-v2/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
@@ -77,6 +78,11 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/klakshya007/dsa-vault-v2/tree/main/0860-lemonade-change/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
