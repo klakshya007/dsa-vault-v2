@@ -40,6 +40,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | ------- | ------- |
 | [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
