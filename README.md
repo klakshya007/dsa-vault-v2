@@ -24,6 +24,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/klakshya007/dsa-vault-v2/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/klakshya007/dsa-vault-v2/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
@@ -99,9 +101,14 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/klakshya007/dsa-vault-v2/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/klakshya007/dsa-vault-v2/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
