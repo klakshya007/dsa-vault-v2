@@ -11,6 +11,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/klakshya007/dsa-vault-v2/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/klakshya007/dsa-vault-v2/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/klakshya007/dsa-vault-v2/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/klakshya007/dsa-vault-v2/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/klakshya007/dsa-vault-v2/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
@@ -90,4 +92,8 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/klakshya007/dsa-vault-v2/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
