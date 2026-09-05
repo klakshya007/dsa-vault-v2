@@ -96,4 +96,12 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/klakshya007/dsa-vault-v2/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/klakshya007/dsa-vault-v2/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/klakshya007/dsa-vault-v2/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
