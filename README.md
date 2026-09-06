@@ -18,6 +18,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/klakshya007/dsa-vault-v2/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/klakshya007/dsa-vault-v2/tree/main/0860-lemonade-change/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/klakshya007/dsa-vault-v2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/klakshya007/dsa-vault-v2/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
