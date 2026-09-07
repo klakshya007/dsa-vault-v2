@@ -7,6 +7,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/klakshya007/dsa-vault-v2/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/klakshya007/dsa-vault-v2/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/klakshya007/dsa-vault-v2/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
@@ -50,6 +52,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/klakshya007/dsa-vault-v2/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/klakshya007/dsa-vault-v2/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
