@@ -99,6 +99,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -119,4 +120,12 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
