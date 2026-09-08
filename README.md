@@ -126,6 +126,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/klakshya007/dsa-vault-v2/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -135,4 +136,8 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/klakshya007/dsa-vault-v2/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
