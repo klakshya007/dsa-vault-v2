@@ -18,6 +18,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0283-move-zeroes](https://github.com/klakshya007/dsa-vault-v2/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/klakshya007/dsa-vault-v2/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/klakshya007/dsa-vault-v2/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 | [0860-lemonade-change](https://github.com/klakshya007/dsa-vault-v2/tree/main/0860-lemonade-change/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/klakshya007/dsa-vault-v2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0001-two-sum](https://github.com/klakshya007/dsa-vault-v2/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/klakshya007/dsa-vault-v2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/klakshya007/dsa-vault-v2/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/klakshya007/dsa-vault-v2/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -124,8 +126,13 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/klakshya007/dsa-vault-v2/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
