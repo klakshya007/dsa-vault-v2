@@ -13,9 +13,9 @@ class Solution {
                     closest_sum=sum;
                     max_diff=diff;
                 }
-                if(sum<target)j++;
+                if(sum==target)break;
+                else if(sum<target)j++;
                 else if (sum>target)k--;
-                else if(sum==target)break;
             }
             if(max_diff==0)break;
         }
