@@ -42,6 +42,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0189-rotate-array](https://github.com/klakshya007/dsa-vault-v2/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/klakshya007/dsa-vault-v2/tree/main/0258-add-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/klakshya007/dsa-vault-v2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/klakshya007/dsa-vault-v2/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
