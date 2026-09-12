@@ -22,6 +22,7 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | [0496-next-greater-element-i](https://github.com/klakshya007/dsa-vault-v2/tree/main/0496-next-greater-element-i/) | Easy |
 | [0860-lemonade-change](https://github.com/klakshya007/dsa-vault-v2/tree/main/0860-lemonade-change/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/klakshya007/dsa-vault-v2/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/klakshya007/dsa-vault-v2/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/klakshya007/dsa-vault-v2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -145,4 +146,8 @@ A collection of LeetCode questions which I solved while solving the Striver's A2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/klakshya007/dsa-vault-v2/tree/main/0155-min-stack/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/klakshya007/dsa-vault-v2/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
